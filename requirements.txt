@@ -1,0 +1,6 @@
+streamlit==1.24.0
+speechrecognition==3.8.1
+gtts==2.2.4
+llama-index==0.5.4  # LlamaIndex for Ollama integration
+transformers==4.30.2  # Required for HuggingFace embedding model
+torch==2.0.1  # Required for HuggingFace embedding model
